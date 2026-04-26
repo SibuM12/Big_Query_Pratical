@@ -1,14 +1,14 @@
-## 📊 Retail Sales Analysis – BigQuery Practical Exercise
+## Retail Sales Analysis – BigQuery Practical Exercise
 
 This project contains SQL solutions built using Google BigQuery on a Retail Sales dataset. The exercise focuses on applying core SQL concepts to extract insights, perform aggregations, and classify data for business decision-making.
 
-## 🧠 Objectives
+## Objectives
 Apply SQL querying techniques in BigQuery
 Perform data filtering and conditional logic
 Use aggregation functions to derive business insights
 Transform raw data into meaningful categories
-## 🗂️ Dataset Overview
 
+## Dataset Overview
 Dataset: retail_sales
 Source: Google BigQuery
 
@@ -22,7 +22,7 @@ Quantity
 Price per Unit
 Total Amount
 Date
-## 🧾 SQL Queries & Solutions
+##  SQL Queries & Solutions
 Q1 – WHERE Clause (Filter 2023 Transactions)
 
 Filtered the dataset to include only transactions that occurred in the year 2023. This ensures time-based analysis is focused on a specific period.
@@ -62,28 +62,30 @@ Created a new classification for transactions based on price per unit, labeling 
 Q10 – WHERE + CASE (Customer Spending Levels)
 
 Filtered customers aged 40 and above and categorized their spending behavior as High or Low based on transaction value. This helps analyze purchasing power within an older demographic.
-## 📊 Key Insights
+## Key Insights
 High-value transactions (above average) help identify premium customers
 Product category aggregation highlights top-performing segments
 Age grouping enables customer segmentation for targeted marketing
 Spending classification reveals high vs low value customers
 Conditional aggregation helps uncover behavior patterns across demographics
-## 🚀 How to Run
+## How to Run
 Open Google BigQuery
 Navigate to your dataset: retail_data
 Copy and run each query in the SQL editor
 Analyze results directly in BigQuery
-## 📁 Repository Structure
-📦 retail-sales-bigquery
- ┣ 📜 README.md
- ┣ 📜 queries.sql
-## 💡 Skills Demonstrated
+## Repository Structure
+ Big Query Exercise description
+ Retail Sales CSV file
+ Queries.sql
+ Exercise results pdf
+ README.md file
+## Skills Demonstrated
 SQL (Intermediate)
 Data Cleaning & Transformation
 Aggregations & Filtering
 Business Insight Generation
 BigQuery Environment Usage
-## 📬 Author
+## Author
 
 Sibu
 Aspiring Data Analyst | Business & Tech Enthusiast

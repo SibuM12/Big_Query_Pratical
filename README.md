@@ -59,15 +59,14 @@ Q9 – Calculated Fields (Unit Cost Classification)
 
 Created a new classification for transactions based on price per unit, labeling them as Cheap, Moderate, or Expensive. This simplifies pricing analysis and product positioning.
 
-Q10 – WHERE + CASE (Customer Spending Levels)
-
+Q10. WHERE + CASE (Customer Spending Levels)
 Filtered customers aged 40 and above and categorized their spending behavior as High or Low based on transaction value. This helps analyze purchasing power within an older demographic.
 ## Key Insights
-High-value transactions (above average) help identify premium customers
-Product category aggregation highlights top-performing segments
-Age grouping enables customer segmentation for targeted marketing
-Spending classification reveals high vs low value customers
-Conditional aggregation helps uncover behavior patterns across demographics
+1. High-value transactions (above average) help identify premium customers
+2. Product category aggregation highlights top-performing segments
+3. Age grouping enables customer segmentation for targeted marketing
+4. Spending classification reveals high vs low value customers
+5. Conditional aggregation helps uncover behavior patterns across demographics
 ## How to Run
 1. Open Google BigQuery
 2. Navigate to your dataset: retail_data
@@ -80,12 +79,13 @@ Conditional aggregation helps uncover behavior patterns across demographics
 4. Exercise results pdf
 5. README.md file
 ## Skills Demonstrated
-SQL (Intermediate),
-Data Cleaning & Transformation,
-Aggregations & Filtering,
-Business Insight Generation,
-BigQuery Environment Usage
+1. SQL (Intermediate),
+2. Data Cleaning & Transformation,
+3. Aggregations & Filtering,
+4. Business Insight Generation,
+5. BigQuery Environment Usage
 ## Author
 
 Sibu
+
 Aspiring Data Analyst | Business & Tech Enthusiast

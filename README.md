@@ -69,21 +69,21 @@ Age grouping enables customer segmentation for targeted marketing
 Spending classification reveals high vs low value customers
 Conditional aggregation helps uncover behavior patterns across demographics
 ## How to Run
-Open Google BigQuery
-Navigate to your dataset: retail_data
-Copy and run each query in the SQL editor
-Analyze results directly in BigQuery
+1. Open Google BigQuery
+2. Navigate to your dataset: retail_data
+3. Copy and run each query in the SQL editor
+4. Analyze results directly in BigQuery
 ## Repository Structure
- Big Query Exercise description
- Retail Sales CSV file
- Queries.sql
- Exercise results pdf
- README.md file
+1. Big Query Exercise description
+2. Retail Sales CSV file
+3. Queries.sql
+4. Exercise results pdf
+5. README.md file
 ## Skills Demonstrated
-SQL (Intermediate)
-Data Cleaning & Transformation
-Aggregations & Filtering
-Business Insight Generation
+SQL (Intermediate),
+Data Cleaning & Transformation,
+Aggregations & Filtering,
+Business Insight Generation,
 BigQuery Environment Usage
 ## Author
 
